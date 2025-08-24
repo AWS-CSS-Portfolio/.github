@@ -36,5 +36,5 @@ CompTIA Security+, Network+, A+ and Azure AZ 900 certified.
 
 ---
 
-Sebastian Silva C. - September 2025 - Berlin, Germany
+Sebastian Silva C. - August/September 2025 - Berlin, Germany
 
