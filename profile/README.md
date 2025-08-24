@@ -1,6 +1,7 @@
 ## AWS Certified Security Specialty Portfolio
 
-Welcome to my portfolio AWS Certified Security Specialty. Follow my lab hands-on journey as I prepare for the SCS-C02 exam! New labs every week.
+Welcome to my portfolio AWS Certified Security Specialty. Follow my lab hands-on journey as I prepare for the SCS-C02 exam! 
+New labs every week.
 
 ---
 
