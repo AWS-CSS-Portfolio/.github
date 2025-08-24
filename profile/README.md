@@ -10,10 +10,10 @@ New labs every week.
 | Repository                                                                             | Description                                                                                                              |
 |----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [incident-response](https://github.com/AWS-CSS-Portfolio/incident-response)            | Automated incident response workflow in AWS using GuardDuty, EventBridge, Lambda and SNS.                                |
-| *[logging-monitoring](coming soon)*                                                    |                                                                                                                          |
-| *[infrastructure-security](coming soon)*                                               |                                                                                                                          |
-| *[iam](coming soon)*                                                                   |                                                                                                                          |
-| *[data-protection](coming soon)*                                                       |                                                                                                                          |
+| *[logging-monitoring]*                                                                 | Coming soon...                                                                                                           |
+| *[infrastructure-security]*                                                            | Coming soon...                                                                                                           |
+| *[iam]*                                                                                | Coming soon...                                                                                                           |
+| *[data-protection]*                                                                    | Coming soon...                                                                                                           |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
