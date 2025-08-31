@@ -10,7 +10,7 @@ New labs every week.
 | Repository                                                                             | Description                                                                                                              |
 |----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [incident-response](https://github.com/AWS-CSS-Portfolio/incident-response)            | Automated incident response workflow in AWS using GuardDuty, EventBridge, Lambda and SNS.                                |
-| *[logging-monitoring]*                                                                 | Coming soon...                                                                                                           |
+| [logging-monitoring](https://github.com/AWS-CSS-Portfolio/logging-monitoring)          | Centralized security monitoring with CloudTrail, CloudWatch, Athena, QuickSight & SNS for alerts and threat hunting.     |
 | *[infrastructure-security]*                                                            | Coming soon...                                                                                                           |
 | *[iam]*                                                                                | Coming soon...                                                                                                           |
 | *[data-protection]*                                                                    | Coming soon...                                                                                                           |
@@ -22,7 +22,7 @@ New labs every week.
 ## Topics Covered
 
 - **Domain 1: Incident Response** – Automating security responses; investigating and analyzing incidents & remediating compromised resources.
-- *Domain 2: Logging and Monitoring – Designing monitoring/alerting solutions; using AWS services like CloudTrail, Config and GuardDuty & ensuring visibility into security events.*
+- **Domain 2: Logging and Monitoring** – Built centralized monitoring with CloudTrail, CloudWatch, Athena and QuickSight. Enabled real-time alerts (SNS) and threat-hunting queries.
 - *Domain 3: Infrastructure Security – Securing VPC, subnets and networking; Security group, NACL, firewall policies & Hybrid/cloud infrastructure security design.*
 - *Domain 4: Identity and Access Management – IAM design principles; federation, STS, and cross-account access & implementing least privilege and role-based access.*
 - *Domain 5: Data Protection – Encryption at rest and in transit; KMS, Secrets Manager, CloudHSM & Key policies, rotation, and secure data handling.*
