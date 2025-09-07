@@ -11,7 +11,7 @@ New labs every week.
 |-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------
 | [incident-response](https://github.com/AWS-CSS-Portfolio/incident-response)             | Automated incident response workflow in AWS using GuardDuty, EventBridge, Lambda and SNS.                               |
 | [logging-monitoring](https://github.com/AWS-CSS-Portfolio/logging-monitoring)           | Centralized security monitoring with CloudTrail, CloudWatch, Athena & SNS for alerts and threat hunting.                |
-| [infrastructure-security](https://github.com/AWS-CSS-Portfolio/infrastructure-security) | Zero Trust networking in AWS using VPC Security Groups, NACLs, ALB & WAF for layered defense-in-depth.                  |
+| [infrastructure-security](https://github.com/AWS-CSS-Portfolio/infrastructure-security) | Zero Trust networking using VPC Security Groups, NACLs, ALB & WAF for layered defense-in-depth.                         |
 | *[iam]*                                                                                 | Coming soon...                                                                                                          |
 | *[data-protection]*                                                                     | Coming soon...                                                                                                          |
 | *[man-sec-governance]*                                                                  | Coming soon...                                                                                                          |
