@@ -7,13 +7,14 @@ New labs every week.
 
 ## Portfolio Overview
 
-| Repository                                                                             | Description                                                                                                              |
-|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [incident-response](https://github.com/AWS-CSS-Portfolio/incident-response)            | Automated incident response workflow in AWS using GuardDuty, EventBridge, Lambda and SNS.                                |
-| [logging-monitoring](https://github.com/AWS-CSS-Portfolio/logging-monitoring)          | Centralized security monitoring with CloudTrail, CloudWatch, Athena & SNS for alerts and threat hunting.                 |
-| [infrastructure-security](https://github.com/AWS-CSS-Portfolio/zero-trust-waf)         | Zero Trust networking in AWS using VPC Security Groups, NACLs, ALB & WAF for layered defense-in-depth.                   |
-| *[iam]*                                                                                | Coming soon...                                                                                                           |
-| *[data-protection]*                                                                    | Coming soon...                                                                                                           |
+| Repository                                                                              | Description                                                                                                              |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------
+| [incident-response](https://github.com/AWS-CSS-Portfolio/incident-response)             | Automated incident response workflow in AWS using GuardDuty, EventBridge, Lambda and SNS.                               |
+| [logging-monitoring](https://github.com/AWS-CSS-Portfolio/logging-monitoring)           | Centralized security monitoring with CloudTrail, CloudWatch, Athena & SNS for alerts and threat hunting.                |
+| [infrastructure-security](https://github.com/AWS-CSS-Portfolio/infrastructure-security) | Zero Trust networking in AWS using VPC Security Groups, NACLs, ALB & WAF for layered defense-in-depth.                  |
+| *[iam]*                                                                                 | Coming soon...                                                                                                          |
+| *[data-protection]*                                                                     | Coming soon...                                                                                                          |
+| *[man-sec-governance]*                                                                  | Coming soon...                                                                                                          |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
@@ -26,6 +27,7 @@ New labs every week.
 - **Domain 3: Infrastructure Security** – Securing VPC, subnets and networking; Security group, NACL, firewall policies & Hybrid/cloud infrastructure security design.
 - *Domain 4: Identity and Access Management – IAM design principles; federation, STS, and cross-account access & implementing least privilege and role-based access.*
 - *Domain 5: Data Protection – Encryption at rest and in transit; KMS, Secrets Manager, CloudHSM & Key policies, rotation, and secure data handling.*
+- *Domain 6: Management and Security Governance -*
 
 ---
 
