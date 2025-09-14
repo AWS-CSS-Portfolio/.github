@@ -25,7 +25,7 @@ New labs every week.
 - **Domain 1: Incident Response** – Automating security responses; investigating and analyzing incidents & remediating compromised resources.
 - **Domain 2: Logging and Monitoring** – Built centralized monitoring with CloudTrail, CloudWatch and Athena. Enabled real-time alerts (SNS) and threat-hunting queries.
 - **Domain 3: Infrastructure Security** – Securing VPC, subnets and networking; Security group, NACL, firewall policies & Hybrid/cloud infrastructure security design.
-**Domain 4: Identity and Access Management** – Built a cross-account IAM model where Dev users securely assume a role in the Security Account with External ID protection. Enforced organization-wide guardrails using Service Control Policies (SCPs) to block destructive actions and validated with AWS CLI testing of both allowed and denied operations.
+- **Domain 4: Identity and Access Management** – Built a cross-account IAM model where Dev users securely assume a role in the Security Account with External ID protection. Enforced organization-wide guardrails using Service Control Policies (SCPs) to block destructive actions and validated with AWS CLI testing of both allowed and denied operations.
 - *Domain 5: Data Protection – Encryption at rest and in transit; KMS, Secrets Manager, CloudHSM & Key policies, rotation, and secure data handling.*
 - *Domain 6: Management and Security Governance -*
 
