@@ -12,7 +12,7 @@ New labs every week.
 | [incident-response](https://github.com/AWS-CSS-Portfolio/incident-response)             | Automated incident response workflow in AWS using GuardDuty, EventBridge, Lambda and SNS.                               |
 | [logging-monitoring](https://github.com/AWS-CSS-Portfolio/logging-monitoring)           | Centralized security monitoring with CloudTrail, CloudWatch, Athena & SNS for alerts and threat hunting.                |
 | [infrastructure-security](https://github.com/AWS-CSS-Portfolio/infrastructure-security) | Zero Trust networking using VPC Security Groups, NACLs, ALB & WAF for layered defense-in-depth.                         |
-| *[iam]*                                                                                 | Coming soon...                                                                                                          |
+| [iam](https://github.com/AWS-CSS-Portfolio/iam)                                         | Secure cross-account access using IAM Roles with External IDs and guardrails enforced by Service Control Policies.      |
 | *[data-protection]*                                                                     | Coming soon...                                                                                                          |
 | *[man-sec-governance]*                                                                  | Coming soon...                                                                                                          |
 
@@ -25,7 +25,7 @@ New labs every week.
 - **Domain 1: Incident Response** – Automating security responses; investigating and analyzing incidents & remediating compromised resources.
 - **Domain 2: Logging and Monitoring** – Built centralized monitoring with CloudTrail, CloudWatch and Athena. Enabled real-time alerts (SNS) and threat-hunting queries.
 - **Domain 3: Infrastructure Security** – Securing VPC, subnets and networking; Security group, NACL, firewall policies & Hybrid/cloud infrastructure security design.
-- *Domain 4: Identity and Access Management – IAM design principles; federation, STS, and cross-account access & implementing least privilege and role-based access.*
+**Domain 4: Identity and Access Management** – Built a cross-account IAM model where Dev users securely assume a role in the Security Account with External ID protection. Enforced organization-wide guardrails using Service Control Policies (SCPs) to block destructive actions and validated with AWS CLI testing of both allowed and denied operations.
 - *Domain 5: Data Protection – Encryption at rest and in transit; KMS, Secrets Manager, CloudHSM & Key policies, rotation, and secure data handling.*
 - *Domain 6: Management and Security Governance -*
 
@@ -39,5 +39,5 @@ CompTIA Security+, Network+, A+ and Azure AZ 900 certified.
 
 ---
 
-Sebastian Silva C. - August/September 2025 - Berlin, Germany
+Sebastian Silva C. - September 2025 - Berlin, Germany
 
