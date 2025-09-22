@@ -13,7 +13,7 @@ New labs every week.
 | [logging-monitoring](https://github.com/AWS-CSS-Portfolio/logging-monitoring)           | Centralized security monitoring with CloudTrail, CloudWatch, Athena & SNS for alerts and threat hunting.                |
 | [infrastructure-security](https://github.com/AWS-CSS-Portfolio/infrastructure-security) | Zero Trust networking using VPC Security Groups, NACLs, ALB & WAF for layered defense-in-depth.                         |
 | [iam](https://github.com/AWS-CSS-Portfolio/iam)                                         | Secure cross-account access using IAM Roles with External IDs and guardrails enforced by SCPs.                          |
-| *[data-protection]*                                                                     | Coming soon...                                                                                                          |
+| [data-protection](https://github.com/AWS-CSS-Portfolio/data-protection)                 | End-to-end encryption with KMS, S3  and RDS; enforced key policies and TLS-only bucket access.                          |
 | *[man-sec-governance]*                                                                  | Coming soon...                                                                                                          |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
@@ -26,7 +26,7 @@ New labs every week.
 - **Domain 2: Logging and Monitoring** – Built centralized monitoring with CloudTrail, CloudWatch and Athena. Enabled real-time alerts (SNS) and threat-hunting queries.
 - **Domain 3: Infrastructure Security** – Securing VPC, subnets and networking; Security group, NACL, firewall policies & Hybrid/cloud infrastructure security design.
 - **Domain 4: Identity and Access Management** – Built a cross-account IAM model where Dev users securely assume a role in the Security Account with External ID protection. Enforced organization-wide guardrails using Service Control Policies (SCPs) to block destructive actions and validated with AWS CLI testing of both allowed and denied operations.
-- *Domain 5: Data Protection – Encryption at rest and in transit; KMS, Secrets Manager, CloudHSM & Key policies, rotation, and secure data handling.*
+- **Domain 5: Data Protection** – Designed and validated encryption at rest & in transit using a KMS CMK, S3 default encryption + TLS-only policies and an RDS instance encrypted with the CMK. Verified compliance via CLI tests showing AccessDenied vs Success.
 - *Domain 6: Management and Security Governance -*
 
 ---
